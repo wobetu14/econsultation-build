@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.fbe3b1d0.css",
-    "main.js": "/static/js/main.5c50524d.js",
+    "main.js": "/static/js/main.faea935e.js",
     "static/js/787.16e2b612.chunk.js": "/static/js/787.16e2b612.chunk.js",
     "static/media/hero.png": "/static/media/hero.e20d2648e806251db6e6.png",
     "static/media/fdreconstitution.jpeg": "/static/media/fdreconstitution.9a7016b1ad5e00d65568.jpeg",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.fbe3b1d0.css.map": "/static/css/main.fbe3b1d0.css.map",
-    "main.5c50524d.js.map": "/static/js/main.5c50524d.js.map",
+    "main.faea935e.js.map": "/static/js/main.faea935e.js.map",
     "787.16e2b612.chunk.js.map": "/static/js/787.16e2b612.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbe3b1d0.css",
-    "static/js/main.5c50524d.js"
+    "static/js/main.faea935e.js"
   ]
 }
