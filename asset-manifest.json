@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ee6d782d.css",
-    "main.js": "/static/js/main.7db11705.js",
+    "main.js": "/static/js/main.116012cf.js",
     "static/js/27.684f08f5.chunk.js": "/static/js/27.684f08f5.chunk.js",
     "static/media/E-Consultation Portal - User Manual.pdf": "/static/media/E-Consultation Portal - User Manual.f291ac5e8c79fcd1104f.pdf",
     "static/media/DocumentDetailsScreen.png": "/static/media/DocumentDetailsScreen.193214f9c32d283d0a87.png",
@@ -53,6 +53,6 @@
   },
   "entrypoints": [
     "static/css/main.ee6d782d.css",
-    "static/js/main.7db11705.js"
+    "static/js/main.116012cf.js"
   ]
 }
