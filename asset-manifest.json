@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ee6d782d.css",
-    "main.js": "/static/js/main.7db11705.js",
+    "main.js": "/static/js/main.2549702f.js",
     "static/js/27.684f08f5.chunk.js": "/static/js/27.684f08f5.chunk.js",
     "static/media/E-Consultation Portal - User Manual.pdf": "/static/media/E-Consultation Portal - User Manual.f291ac5e8c79fcd1104f.pdf",
     "static/media/DocumentDetailsScreen.png": "/static/media/DocumentDetailsScreen.193214f9c32d283d0a87.png",
@@ -18,13 +18,17 @@
     "static/media/RequestdListsWithDetailButtonScreen.png": "/static/media/RequestdListsWithDetailButtonScreen.733d998d0d3ddf8c8d37.png",
     "static/media/CommentInsightsScreen.png": "/static/media/CommentInsightsScreen.b3b7ad84c975905bae54.png",
     "static/media/DraftRequestingStatusScreen.png": "/static/media/DraftRequestingStatusScreen.71513fbedfde643109f7.png",
+    "static/media/SampleLanguageTemplate.png": "/static/media/SampleLanguageTemplate.0c7960a7848cb8770320.png",
     "static/media/SaveInstitutionScreen.png": "/static/media/SaveInstitutionScreen.b80caf18f22854e884b6.png",
     "static/media/DraftAcceptanceDialogScreen.png": "/static/media/DraftAcceptanceDialogScreen.b37a549eb49a437c680e.png",
+    "static/media/ConvertedJSONResult.png": "/static/media/ConvertedJSONResult.8de264496fa7c0df1b8d.png",
     "static/media/InstitutionsMenuItemScreen.png": "/static/media/InstitutionsMenuItemScreen.7074f8b7016802a8e738.png",
     "static/media/CommentReportsPDFScreen.png": "/static/media/CommentReportsPDFScreen.7c943c69167bb39328c1.png",
     "static/media/SidebarScreen.png": "/static/media/SidebarScreen.5f59b88c10d8931335ff.png",
     "static/media/SectosMenuItemScreen.png": "/static/media/SectosMenuItemScreen.f9e9234cfafb1fe55518.png",
     "static/media/activationCodeEmail.png": "/static/media/activationCodeEmail.ffb11754636e63691e7d.png",
+    "static/media/JSONResultSourceCode.png": "/static/media/JSONResultSourceCode.8134e7bec5a11f51da14.png",
+    "static/media/IndexSourceFile.png": "/static/media/IndexSourceFile.275276b4a90fd35f7464.png",
     "static/media/UserSaveButtonScreen.png": "/static/media/UserSaveButtonScreen.50630b3372cfc4206705.png",
     "static/media/AdminDashboardScreen.png": "/static/media/AdminDashboardScreen.b5229d4359474701fbd1.png",
     "static/media/PasswordResetCodePic.png": "/static/media/PasswordResetCodePic.2dbc5c91dba3e007fbcb.png",
@@ -34,16 +38,22 @@
     "static/media/user roles heirarchy.png": "/static/media/user roles heirarchy.8d9298f3d06bcdbb4fdf.png",
     "static/media/ExternalRequestsAcceptanceDialogScreen.png": "/static/media/ExternalRequestsAcceptanceDialogScreen.ecf50a7e4e42f4ffe8a8.png",
     "static/media/PasswordReset1.png": "/static/media/PasswordReset1.ebf59341c9c498f8d62d.png",
+    "static/media/LanguageToolUI.png": "/static/media/LanguageToolUI.8f431bfd7d3f2a3e6ed1.png",
     "static/media/EmailNotificationScreen.png": "/static/media/EmailNotificationScreen.7f28e43499f2764f5b73.png",
     "static/media/InstitutionalInvitationScreen.png": "/static/media/InstitutionalInvitationScreen.0cb46158aeaf0ed02a41.png",
     "static/media/ExternalRequestsListScreen.png": "/static/media/ExternalRequestsListScreen.ef7293c9f3be103bd247.png",
+    "static/media/LanguageSwitcherMenu.png": "/static/media/LanguageSwitcherMenu.3d0087130d94532146f3.png",
     "static/media/InvitationsListScreen.png": "/static/media/InvitationsListScreen.f38b782646e381cf79dc.png",
     "static/media/loginScreen.png": "/static/media/loginScreen.98dfebe0fd74010095d4.png",
+    "static/media/TranslationFilePath.png": "/static/media/TranslationFilePath.578bb13082f572f48ceb.png",
+    "static/media/NewLanguageSwitchResult.png": "/static/media/NewLanguageSwitchResult.8c0979b2f35efcd456fd.png",
     "static/media/createaccountscreen.png": "/static/media/createaccountscreen.344d1907a650c07bf491.png",
     "static/media/CreateUserScreen.png": "/static/media/CreateUserScreen.79d0935de3b0e07890fe.png",
     "static/media/AssignedStafftoReplyScreen.png": "/static/media/AssignedStafftoReplyScreen.7cdb209cf1968d4989c6.png",
     "static/media/SectorsManagementScreen.png": "/static/media/SectorsManagementScreen.097e91512a9e8d182872.png",
     "static/media/UploadingDraftProgressScreen.png": "/static/media/UploadingDraftProgressScreen.dbdca436fdc8c86b3182.png",
+    "static/media/translation__am.xlsx": "/static/media/translation__am.7695cd0dec32d91e9315.xlsx",
+    "static/media/translation__en.xlsx": "/static/media/translation__en.3108977c96897a0edecc.xlsx",
     "static/media/CreateNewSectorScreen.png": "/static/media/CreateNewSectorScreen.0c801a56cfec8b3cae14.png",
     "static/media/signupscreen.png": "/static/media/signupscreen.e1d838c3fb98222897b8.png",
     "static/media/FDRE E-Consultation Portal - Draft Template.docx": "/static/media/FDRE E-Consultation Portal - Draft Template.5c952bec5ad73577be18.docx",
@@ -53,6 +63,6 @@
   },
   "entrypoints": [
     "static/css/main.ee6d782d.css",
-    "static/js/main.7db11705.js"
+    "static/js/main.2549702f.js"
   ]
 }
