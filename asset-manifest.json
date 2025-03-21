@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc2d6382.css",
-    "main.js": "/static/js/main.9040e08f.js",
+    "main.js": "/static/js/main.3828d703.js",
     "static/js/206.c32c6e31.chunk.js": "/static/js/206.c32c6e31.chunk.js",
     "static/js/52.575b6327.chunk.js": "/static/js/52.575b6327.chunk.js",
     "static/js/760.577cb8a6.chunk.js": "/static/js/760.577cb8a6.chunk.js",
@@ -45,6 +45,7 @@
     "static/media/EmailNotificationScreen.png": "/static/media/EmailNotificationScreen.7f28e43499f2764f5b73.png",
     "static/media/InstitutionalInvitationScreen.png": "/static/media/InstitutionalInvitationScreen.0cb46158aeaf0ed02a41.png",
     "static/media/ExternalRequestsListScreen.png": "/static/media/ExternalRequestsListScreen.ef7293c9f3be103bd247.png",
+    "static/media/hero_image.png": "/static/media/hero_image.170dfd268b3a1722ca56.png",
     "static/media/LanguageSwitcherMenu.png": "/static/media/LanguageSwitcherMenu.3d0087130d94532146f3.png",
     "static/media/InvitationsListScreen.png": "/static/media/InvitationsListScreen.f38b782646e381cf79dc.png",
     "static/media/loginScreen.png": "/static/media/loginScreen.98dfebe0fd74010095d4.png",
@@ -52,6 +53,7 @@
     "static/media/NewLanguageSwitchResult.png": "/static/media/NewLanguageSwitchResult.8c0979b2f35efcd456fd.png",
     "static/media/createaccountscreen.png": "/static/media/createaccountscreen.344d1907a650c07bf491.png",
     "static/media/CreateUserScreen.png": "/static/media/CreateUserScreen.79d0935de3b0e07890fe.png",
+    "static/media/fdre_econsultation.png": "/static/media/fdre_econsultation.cc50dd4c5996d89138b5.png",
     "static/media/AssignedStafftoReplyScreen.png": "/static/media/AssignedStafftoReplyScreen.7cdb209cf1968d4989c6.png",
     "static/media/SectorsManagementScreen.png": "/static/media/SectorsManagementScreen.097e91512a9e8d182872.png",
     "static/media/UploadingDraftProgressScreen.png": "/static/media/UploadingDraftProgressScreen.dbdca436fdc8c86b3182.png",
@@ -66,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.bc2d6382.css",
-    "static/js/main.9040e08f.js"
+    "static/js/main.3828d703.js"
   ]
 }
